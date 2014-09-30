@@ -4,8 +4,8 @@ var pkg = require('..');
 
 describe('bixby-ssh-pki', function() {
   
-  it('should export object', function() {
-    expect(pkg).to.be.an('object');
+  it('should export function', function() {
+    expect(pkg).to.be.an('function');
   });
   
 });

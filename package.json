@@ -25,6 +25,7 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "sshkeypair": "git://github.com/jaredhanson/node-sshkeypair.git"
   },
   "devDependencies": {
     "mocha": "1.x.x",
